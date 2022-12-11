@@ -52,7 +52,6 @@ I love to explore different technologies and dig deep to see how they come toget
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/alisha-shaw/"><img align="left" src="https://github.com/alishashaw439/alishashaw439/blob/main/images/linkedin.png" width="20px"/></a>
-<a href="alishashaw439@gmail.com"><img align="left" src="https://github.com/alishashaw439/alishashaw439/blob/main/images/gmail.png" width="21px"/></a>
 <a href="https://twitter.com/AlishaShaw00"><img align="left" src="https://github.com/alishashaw439/alishashaw439/blob/main/images/twitter.png" width="21px"/></a>
 </br>
 
