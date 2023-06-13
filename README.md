@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
    <img src="https://github.com/alishashaw439/alishashaw439/blob/main/images/backgroundCover.png" alt="my banner">
-</p>
+</p> -->
 
 <h3 align="center">
 Hi there, I'm Alisha 👋
