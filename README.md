@@ -12,7 +12,7 @@ I'm a Software Engineer
 
 I love to explore different technologies and dig deep to see how they come together to make a workable solution for a real life problem.
 
-- :desktop_computer: I a have 1.5 year of working experience in iOS Development(Swift) and React Native.
+- :desktop_computer: I have a 1.5 year of working experience in iOS Development(Swift) and React Native.
 - 👯 I’m looking to collaborate and work on any idea which will create an impact or be useful to the users. Would love to build it from scratch.
 - :computer: I’m open for work.
 - 💬 Ask me about tech,space and food.
